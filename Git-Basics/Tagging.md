@@ -1,4 +1,4 @@
-![[Pasted image 20260804133510.png|779]]
+![[tagging graph.png|779]]
 ## Creating Tags
 some of your commits may be special commits, maybe you reached a milestone or a new version number.so, you have to mark this commits with a special flag called "tag".
 

@@ -6,7 +6,7 @@ some of your commits may be special commits, maybe you reached a milestone or a 
 git supports two type of tags **lightweight** and **annotated**:
 - **lightweight** tag, its just a pointer to a specific commit (not creating object).
 - **annotated** tag, are stored as full objects in the Git database, contain the tagger name, email, and date, have a tagging message.
-==releases/versioning should be annotated because they carry authorship + a message, lightweight is more for quick/local bookmarks.==
+releases/versioning should be annotated because they carry authorship + a message, lightweight is more for quick/local bookmarks.
 ---
 ### Annotated Tag  (object)
 ```

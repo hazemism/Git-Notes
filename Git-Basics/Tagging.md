@@ -1,4 +1,4 @@
-<img width="600" height="343" alt="image" src="https://github.com/user-attachments/assets/d1136e44-c273-4aa5-9f32-bc1253dc9ef0" />
+<img width="600" height="343" alt="image" src="https://github.com/hazemism/Git-Notes/blob/main/graphs/tagging%20graph.png" />
 
 ## Creating Tags
 some of your commits may be special commits, maybe you reached a milestone or a new version number.so, you have to mark this commits with a special flag called "tag".

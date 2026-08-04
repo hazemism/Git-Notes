@@ -1,2 +1,2 @@
 my git notes
-[Tagging](git-notes/Git-Notes/Tagging.md)
+[Tagging](Git-Notes/Git-Basics/Tagging.md)

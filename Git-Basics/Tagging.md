@@ -49,7 +49,7 @@ $ git tag -a <tag-name> <commit-sha> (not the full sha)
 ```
 git push origin <tag-name>
 ```
-By default, the `git push` command doesn’t transfer tags to remote servers, You will have to explicitly push tags to a shared server after you have created them.
+By default, the `git push` command doesn’t transfer tags to remote servers, You will have to explicitly push tags to a shared server after you have created them. 
 
 If you have a lot of tags that you want to push up at once
 ```
